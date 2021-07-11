@@ -1,0 +1,3 @@
+C:\Users\kozya\source\repos\Ayatek.xTakip\Ayatek.xTakip.NodeJsServer\obj\Debug\Ayatek.xTakip.NodeJsServer.njsproj.CoreCompileInputs.cache
+C:\Users\kozya\source\repos\Ayatek.xTakip\Ayatek.xTakip.NodeJsServer\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\kozya\source\repos\Ayatek.xTakip\Ayatek.xTakip.NodeJsServer\obj\Debug\Ayatek.xTakip.NodeJsServer.njsprojAssemblyReference.cache
