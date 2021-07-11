@@ -1,3 +1,3 @@
-﻿# Ayatek.xTakip.NodeJsServer
+NodeJs Socket I/O Server
 
 
