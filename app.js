@@ -2,9 +2,9 @@ const net = require('net');
 const { Sequelize } = require('sequelize');
 const port = 1720;
 const server = net.createServer();
-const sequelize = new Sequelize('xTakip', 'lingoon', 'P@55word', {
+const sequelize = new Sequelize('DatabaseName', 'DatabaseUser', 'DatabasePassword', {
     dialect: "mssql",
-    host: "sql2012.isimtescil.net",
+    host: "HostNameOrIPAddress",
     logging: false,
     dialectOptions: {
         options: {
